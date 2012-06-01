@@ -1,4 +1,17 @@
-legit-python
-============
+Install
+-------
+Install from pypi using pip:
 
-A Python module for accessing the Legit API. Have questions? Email rob@legit.co
+    $ pip install legit
+    
+Or checkout the source and install from there:
+
+    $ git clone http://github.com/LegitInc/legit-python
+    $ cd legit-python
+    $ python setup.py install
+    
+The final command may need to be run with `sudo`.
+
+Usage
+-----
+
